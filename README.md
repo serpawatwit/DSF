@@ -1,2 +1,2 @@
 # DSFLab2
-![](Lab3.gif)!
+[](Lab3.gif)!
